@@ -15,7 +15,7 @@ API simples de gerenciamento de tarefas (To-Do), construída em **C# / ASP.NET C
 ---
 
 ## 📂 Estrutura do Projeto
-
+```
 TodoApi/
 ├─ Controllers/
 │ └─ TodoController.cs
@@ -27,7 +27,7 @@ TodoApi/
 ├─ TodoApi.csproj
 ├─ README.md
 └─.gitignore
-
+```
 ---
 
 ## ⚡ Como Rodar
@@ -36,23 +36,26 @@ TodoApi/
 
 ```bash
 cd TodoApi
-
+```
 2. Execute a API:
 
 ```bash
 dotnet run
--A API estará rodando em http://localhost:5000 (ou HTTPS em 5001).
+```
+-  A API estará rodando em http://localhost:5000 (ou HTTPS em 5001).
 
 🌐 Endpoints
+```
 Método	Endpoint	    Descrição
 GET	    /todo	    Lista todas as tarefas
 GET	    /todo/{id}	Busca tarefa por ID
 POST	/todo	    Cria nova tarefa
 PUT	    /todo/{id}	Atualiza tarefa existente
 DELETE	/todo/{id}	Deleta tarefa por ID
--Os dados são enviados/recebidos em JSON.
+```
+-  Os dados são enviados/recebidos em JSON.
 
 📌 Observações
 
--Projeto feito para estudo e aprendizado.
--Pode ser expandido para banco de dados real, autenticação, ou front-end.
+-  Projeto feito para estudo e aprendizado.
+-  Pode ser expandido para banco de dados real, autenticação, ou front-end.
