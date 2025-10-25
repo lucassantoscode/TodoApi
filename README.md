@@ -1,6 +1,6 @@
 # To-Do List API
 
-![C#](https://img.shields.io/badge/C%23-.NET%20Core-green) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![C#](https://img.shields.io/badge/C%23-.NET%20Core-green)
 
 API simples de gerenciamento de tarefas (To-Do), construída em **C# / ASP.NET Core**, para estudo e aprendizado de APIs REST.
 
