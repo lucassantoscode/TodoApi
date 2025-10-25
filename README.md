@@ -46,7 +46,7 @@ dotnet run
 
 🌐 Endpoints
 ```
-Método	Endpoint	    Descrição
+Método	Endpoint	Descrição
 GET	    /todo	    Lista todas as tarefas
 GET	    /todo/{id}	Busca tarefa por ID
 POST	/todo	    Cria nova tarefa
