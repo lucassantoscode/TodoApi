@@ -9,8 +9,8 @@ API simples de gerenciamento de tarefas (To-Do), construída em **C# / ASP.NET C
 ## 🔹 Tecnologias
 
 - **C# / ASP.NET Core**: Backend API
-- **Visual Studio / VS Code**: Desenvolvimento
-- **.NET 7 (ou 8)**: Plataforma
+- **VS Code**: Desenvolvimento
+- **.NET 9**: Plataforma
 
 ---
 
